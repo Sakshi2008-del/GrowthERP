@@ -55,9 +55,9 @@ export default function Layout() {
               <Cpu className="size-6 text-white" />
             </div>
             <div>
-              <h1 className="font-black text-xl tracking-tight uppercase">NERVE</h1>
+              <h1 className="font-black text-xl tracking-tight uppercase">GrowthERP</h1>
               <p className="text-[10px] text-muted-foreground tracking-[0.18em] font-bold uppercase">
-                Autonomous Engine
+                AI Growth Platform
               </p>
             </div>
           </div>
